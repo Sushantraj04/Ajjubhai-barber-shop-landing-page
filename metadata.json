@@ -1,0 +1,8 @@
+{
+  "name": "AJJUBHAI BARBER SHOP - Premium Grooming",
+  "description": "A luxury barber salon website featuring a 3D animated logo, automated booking system, and premium black-and-gold aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
